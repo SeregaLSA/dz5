@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 30px;
+}
+.block2 {
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    margin: 30px;
+    border: 10px solid black;
+}
+.block3 {
+    width: 150px;
+    height: 200px;
+    background-color: blue;
+    margin: 40px 0px;
+    border-bottom: 20px dotted rgb(241, 82, 82);
+    padding: 20px;
+}
+.p-text {
+    color: wheat;
+    font-size: 52px;
+    text-align: center;
+}
+
+.block4 {
+    height: 100px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: yellow;
+    border-top: 30px dashed white;
+    border-bottom: 30px dashed white;
+}
+.p2-text {
+    text-align: center;
+    padding-top: 0 auto;
+    font-size: 32px;
+}
+.block5 {
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    margin: 30px 40px 40px 30px;
+    padding: 10px;
+}
+.block5-1 {
+    width: 140px;
+    height: 140px;
+    background-color: green;
+    padding: 10px;
+}
+.block5-2 {
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+}
+
+.block6 {
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    margin: 30px 40px 40px 30px;
+    padding: 10px;
+}
+.block6-1 {
+    display: inline-block;
+    width: 140px;
+    height: 140px;
+    background-color: green;
+    padding: 10px;
+}
+.block6-2 {
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+}
+.block7 {
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+    background-color: red;
+    margin: 30px 40px 40px 30px;
+    padding: 10px;
+}
+.block7-1 {
+    display: inline-block;
+    width: 140px;
+    height: 140px;
+    background-color: green;
+    padding: 10px;
+}
+.block7-2 {
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    background-color: blue;
+}
+
+.block8 {
+    width: 200px;
+    height: 200px;
+    border: 20px solid;
+    border-color: red green blue yellow;
+    margin-left: 30px;
+}
+.block8-1 {
+    width: 200px;
+    height: 200px;
+    border: 20px solid;
+    border-color: green red yellow blue;
+    margin-left: 115px;
+    margin-top: -100px;
+}
